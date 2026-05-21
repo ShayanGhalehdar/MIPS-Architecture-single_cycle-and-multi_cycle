@@ -44,7 +44,3 @@ vsim -c work.tb -do "run -all; quit"
 ```
 
 The `isort32` test programs run an in-memory insertion sort and are a good end-to-end correctness check.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
