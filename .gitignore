@@ -1,0 +1,11 @@
+# Verilog / ModelSim
+work/
+*.wlf
+*.vstf
+*.bak
+*.mpf
+vsim.wlf
+
+# OS
+.DS_Store
+Thumbs.db
